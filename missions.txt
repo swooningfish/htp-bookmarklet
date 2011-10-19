@@ -1,0 +1,52 @@
+- The captin is here
+	 setup a proxy id 229 [55 50 30 25 150]
+
+	by pass firewalls id 231 [80 80 30 15 200]
+
+	hack into bulk shipping id 230 [38 36 32 20 110]
+
+	download the sips logs, what they are carring and what destional id 232 [55 60 40 20 160]
+
+- Spaldin Assists
+
+	Setup a proxy id 168 [55 50 30 25 150]
+
+	Bypass the firewall and any other security measures id 172 [55 60 25 30 150]
+
+	Find the full inventory list and all information on ongoing hauls id 174 [55 60 35 30 160]
+
+	Missions Download everything you find , entripy it and sent it to spaling id 176 [55 60 40 20 160]
+
+
+
+	ioTech TundraBoost 320 
+	4 4 0 0 20 lvl 13
+
+- Eyes in the Skies
+	Setup a proxy so not to be detected id 100 [55 50 30 25 150]
+	Bypass Albatross 121 [ 55 60 30 25 170]
+	Find the files and informaion you are looking for id 107 [ 55 60 35 30 160 ]
+	Encrypt the informaon and sent it off to Spalding id 233 [ 62 60 30 25 170]
+
+What is Spalding Up to?
+	Setup a proxy 234 [ 60 60 30 45 170]
+	Break throught any firewall or other security measured you may encounter 235 [ 50 70 25 20 145]
+	Find the companies client ist 236 [55 60 35 30 160 ]
+	Encrype the infomraion and send it off to Spalding 237 [62 60 30 25 170] Orange 1000 CPu  [6 3 0 0 0 lvl 9
+
+- Hacking the Hacker
+	Connect to Spalding 238 [75 80 25 30 200]
+	Reset your firewalls and block all incoming traffic  239 [ 80 80 30 15 200 ] XP 70
+	Fetch proxy adresses 240 [ 55 60 35 30 160] XP 40
+	Create a network tunnel revealing the source IP-address 241 [82 80 22 30 200] xp 43
+
+- A worthy Enemy 
+	Set up a proxy 242 [ 101 101 25 25 200]
+	Bypass any firewall and other security measures you may encounter 243
+ 	Search the database for any reference to your or Spalding 244
+	Download all the information you can 245 
+	Break the encryption to access the files 246 
+		
+
+	
+

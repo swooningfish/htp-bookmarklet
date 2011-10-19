@@ -1,0 +1,122 @@
+30
+35
+30
+20
+100
+
+
+
+
+
+http://hacktheplanet.no/mission_attack
+post id 120 (virtus look like turtles)
+
+
+// mission 120
+
+{"status":"completed","rounds":"1","debug":"{\"0\":\"mission sanity checks ok\",\"1\":\"ATTACKLOOP\",\"2\":\"HP+1 player 0 82\",\"3\":\"LOOKING FOR RANDOM enemy\",\"attack\":[17],\"4\":\"HP<1 enemy 1 0\",\"5\":\"LOOKING FOR RANDOM enemy\",\"6\":\"LOOKING FOR RANDOM enemy\"}","dead":"{\"player\":[],\"enemy\":[\"11\"],\"npc\":[]}","founditem":false,"task":[{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d9.jpg","playercolor":"111111","playerid":"1764","playerxp":5,"target":"enemy","targetname":"Turtle","targetimage":"ch1.turtle2011022714.jpg","targetcolor":"33f000","targetid":"11","targethp":0,"targethppercent":0,"targetdestroyed":1,"damage":17,"damagetype":"normal","attacktype":"normal"}],"outcome":{"score":4745,"itemid":"0","itemcard":"","damage_delt":35,"damage_recieved":"0","xp":11,"cr":370},"story":"As you stop to take a breather you realize you can't stop here, this is turtle country"}
+
+
+{"status":"completed","rounds":"1","debug":"{\"0\":\"mission sanity checks ok\",\"1\":\"ATTACKLOOP\",\"2\":\"HP+1 player 0 82\",\"3\":\"LOOKING FOR RANDOM enemy\",\"attack\":[21],\"4\":\"HP<1 enemy 1 0\",\"5\":\"LOOKING FOR RANDOM enemy\",\"6\":\"LOOKING FOR RANDOM enemy\"}","dead":"{\"player\":[],\"enemy\":[\"11\"],\"npc\":[]}","founditem":false,"task":[{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d9.jpg","playercolor":"111111","playerid":"1764","playerxp":6,"target":"enemy","targetname":"Turtle","targetimage":"ch1.turtle2011022714.jpg","targetcolor":"33f000","targetid":"11","targethp":0,"targethppercent":0,"targetdestroyed":1,"damage":21,"damagetype":"normal","attacktype":"normal"}],"outcome":{"score":4930,"itemid":"0","itemcard":"","damage_delt":51,"damage_recieved":"0","xp":17,"cr":770},"story":"As you stop to take a breather you realize you can't stop here, this is turtle country"}
+
+
+{"status":"active","rounds":"0","debug":"{\"0\":\"mission sanity checks ok\",\"1\":\"ATTACKLOOP\",\"2\":\"HP+1 player 0 82\",\"3\":\"LOOKING FOR RANDOM enemy\",\"attack\":[13,0,17],\"4\":\"HP+1 enemy 1 22\",\"5\":\"LOOKING FOR RANDOM player\",\"6\":\"LOOKING FOR RANDOM enemy\"}","dead":"{\"player\":[],\"enemy\":[],\"npc\":[]}","founditem":false,"task":[{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d9.jpg","playercolor":"111111","playerid":"1764","playerxp":5,"target":"enemy","targetname":"Turtle","targetimage":"ch1.turtle2011022714.jpg","targetcolor":"33f000","targetid":"11","targethp":22,"targethppercent":63,"targetdestroyed":0,"damage":13,"damagetype":"normal","attacktype":"normal"},{"player":"enemy","playername":"Turtle","playerimage":"ch1.turtle2011022714.jpg","playercolor":"33f000","playerid":"11","playerxp":false,"target":"player","targetname":"xrmx","targetimage":"1b1e5a6325b15fa9945874d1dbab727d9.jpg","targetcolor":"111111","targetid":"1764","targethp":82,"targethppercent":100,"targetdestroyed":0,"damage":0,"damagetype":"miss","attacktype":"normal"},{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d9.jpg","playercolor":"111111","playerid":"1764","playerxp":5,"target":"enemy","targetname":"Turtle","targetimage":"ch1.turtle2011022714.jpg","targetcolor":"33f000","targetid":"11","targethp":5,"targethppercent":14,"targetdestroyed":0,"damage":17,"damagetype":"normal","attacktype":"counter"}]}
+
+{"status":"completed","rounds":"1","debug":"{\"0\":\"mission sanity checks ok\",\"1\":\"ATTACKLOOP\",\"2\":\"HP+1 player 0 82\",\"3\":\"LOOKING FOR RANDOM enemy\",\"attack\":[16],\"4\":\"HP<1 enemy 1 0\",\"5\":\"LOOKING FOR RANDOM enemy\",\"6\":\"LOOKING FOR RANDOM enemy\"}","dead":"{\"player\":[],\"enemy\":[\"11\"],\"npc\":[]}","founditem":false,"task":[{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d9.jpg","playercolor":"111111","playerid":"1764","playerxp":5,"target":"enemy","targetname":"Turtle","targetimage":"ch1.turtle2011022714.jpg","targetcolor":"33f000","targetid":"11","targethp":0,"targethppercent":0,"targetdestroyed":1,"damage":16,"damagetype":"normal","attacktype":"normal"}],"outcome":{"score":4808,"itemid":"0","itemcard":"","damage_delt":46,"damage_recieved":"0","xp":15,"cr":500},"story":"As you stop to take a breather you realize you can't stop here, this is turtle country"}
+
+// won item from 120 
+
+{"status":"completed","rounds":"0","debug":"{\"0\":\"mission sanity checks ok\",\"1\":\"ATTACKLOOP\",\"2\":\"HP+1 player 0 82\",\"3\":\"LOOKING FOR RANDOM enemy\",\"attack\":[14,1,22],\"4\":\"HP+1 enemy 1 21\",\"5\":\"LOOKING FOR RANDOM player\",\"6\":\"LOOKING FOR RANDOM enemy\"}","dead":"{\"player\":[],\"enemy\":[\"11\"],\"npc\":[]}","founditem":true,"task":[{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d9.jpg","playercolor":"111111","playerid":"1764","playerxp":6,"target":"enemy","targetname":"Turtle","targetimage":"ch1.turtle2011022714.jpg","targetcolor":"33f000","targetid":"11","targethp":21,"targethppercent":60,"targetdestroyed":0,"damage":14,"damagetype":"normal","attacktype":"normal"},{"player":"enemy","playername":"Turtle","playerimage":"ch1.turtle2011022714.jpg","playercolor":"33f000","playerid":"11","playerxp":false,"target":"player","targetname":"xrmx","targetimage":"1b1e5a6325b15fa9945874d1dbab727d9.jpg","targetcolor":"111111","targetid":"1764","targethp":81,"targethppercent":99,"targetdestroyed":0,"damage":1,"damagetype":"normal","attacktype":"normal"},{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d9.jpg","playercolor":"111111","playerid":"1764","playerxp":6,"target":"enemy","targetname":"Turtle","targetimage":"ch1.turtle2011022714.jpg","targetcolor":"33f000","targetid":"11","targethp":0,"targethppercent":0,"targetdestroyed":1,"damage":22,"damagetype":"normal","attacktype":"counter"}],"outcome":{"score":4683,"itemid":"1412","itemcard":"<div class=\"item75 itemlink\" style='background-color:#8e8e8e'>\n    <img id='image75' class='itemimage' alt='image75' src='\/images\/items\/malware\/exe-icon2011030221.png' style='background-color:#b6b6b6' \/>\n    <div class=\"namehelper\"><div class=\"itemname\" style='background-color:#666666;'>Remote filesystem controller<\/div><\/div>\n    <span class=\"lvl\">2<\/span>\n\n    <div class=\"stats-bar\">\n        <div class=\"stats-helper\">\n            <div class='stats-item'>\n                <span class=\"stats-value\" style='background-color:#b6b6b6;color:#000000'>1<\/span>\n                <span class=\"stats-type\">Pwr<\/span>\n            <\/div>\n            <div class='stats-item'>\n                <span class=\"stats-value\" style='background-color:#b6b6b6;color:#000000'>0<\/span>\n                <span class=\"stats-type\">SCR<\/span>\n            <\/div>\n            <div class='stats-item'>\n                <span class=\"stats-value\" style='background-color:#b6b6b6;color:#000000'>0<\/span>\n                <span class=\"stats-type\">Spd<\/span>\n            <\/div>\n            <div class='stats-item'>\n                <span class=\"stats-value\" style='background-color:#b6b6b6;color:#000000'>0<\/span>\n                <span class=\"stats-type\">Skl<\/span>\n            <\/div>\n            <div class='stats-item'>\n                <span class=\"stats-value\" style='background-color:#b6b6b6;color:#000000'>5<\/span>\n                <span class=\"stats-type\">hp<\/span>\n            <\/div>\n            <div class=\"clear\"><\/div>\n        <\/div>\n    <\/div>\n<\/div>","damage_delt":36,"damage_recieved":1,"xp":12,"cr":400},"story":"As you stop to take a breather you realize you can't stop here, this is turtle country"}
+
+
+// mission 14
+
+{"status":"completed","rounds":"0","debug":"{\"0\":\"mission sanity checks ok\",\"1\":\"ATTACKLOOP\",\"2\":\"HP+1 player 0 82\",\"3\":\"LOOKING FOR RANDOM enemy\",\"attack\":[26],\"4\":\"HP<1 enemy 1 0\",\"5\":\"LOOKING FOR RANDOM enemy\",\"6\":\"LOOKING FOR RANDOM enemy\"}","dead":"{\"player\":[],\"enemy\":[\"53\"],\"npc\":[]}","founditem":false,"task":[{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d9.jpg","playercolor":"111111","playerid":"1764","playerxp":5,"target":"enemy","targetname":"Police evidence database","targetimage":"server-icon2011022811.png","targetcolor":"ffffff","targetid":"53","targethp":0,"targethppercent":0,"targetdestroyed":1,"damage":26,"damagetype":"normal","attacktype":"normal"}],"outcome":{"score":4751,"itemid":"0","itemcard":"","damage_delt":26,"damage_recieved":"0","xp":5,"cr":140},"story":""}
+
+******************************************************
+
+http://hacktheplanet.no/eventupdates?type=player
+
+[{"name":"cr","value":"3289"},{"name":"bit","value":"10"},{"name":"pp","value":"10"},{"name":"ap","value":"19"},{"name":"xp","value":"6976"},{"name":"sp","value":"0"},{"name":"attack","value":22},{"name":"defense","value":25},{"name":"speed","value":19},{"name":"skill","value":15},{"name":"hp","value":82},{"name":"lvl","value":"9"},{"name":"current","value":"6976"},{"name":"needed","value":7981},{"name":"percentage","value":87.4}]
+
+
+******************************************************
+http://hacktheplanet.no/_server/time.php
+{"time":949}
+
+
+******************************************************
+missions parts - http://hacktheplanet.no/mission_parts?id=18
+******************************************************
+<div id="missionbg">
+
+	<div class="chapter" style='padding:5px 0 0 5px;color:#000;text-align:center;font-size:14px;font-weight:bold;'>A new beginning</div>
+
+		<a href="#" onClick="htp.loadPage('mission_tasks','id=6');return false;" class="chaptermissions" style="top:100px;left:100px;">
+    	<div class="partmap"><span class='completed'></span>A shadow from the past</div>
+    </a>
+    	<a href="#" onClick="htp.loadPage('mission_tasks','id=24');return false;" class="chaptermissions" style="top:275px;left:600px;">
+    	<div class="partmap"><span class='completed'></span>Dreaming</div>
+    </a>
+    	<a href="#" onClick="htp.loadPage('mission_tasks','id=22');return false;" class="chaptermissions" style="top:245px;left:643px;">
+    	<div class="partmap"><span class='completed'></span>Getting my hardware</div>
+    </a>
+    	<a href="#" onClick="htp.loadPage('mission_tasks','id=25');return false;" class="chaptermissions" style="top:150px;left:550px;">
+    	<div class="partmap"><span class='uncompleted'></span>Greeting an old friend</div>
+    </a>
+    	<a href="#" onClick="htp.loadPage('mission_tasks','id=7');return false;" class="chaptermissions" style="top:150px;left:200px;">
+    	<div class="partmap"><span class='completed'></span>Old habits are hard to break</div>
+    </a>
+    	<a href="#" onClick="htp.loadPage('mission_tasks','id=23');return false;" class="chaptermissions" style="top:350px;left:550px;">
+    	<div class="partmap"><span class='completed'></span>Uncomplete</div>
+    </a>
+    
+
+    
+</div>
+
+<a id="backbutton" onClick="htp.loadPage('mission_chapters');return false;" >Back</a>
+    
+<script type="text/javascript">
+
+$(document).ready(function() {
+
+//	$("#chapterdesc").delay(1000).slideDown();
+
+	$("a.chaptermissions").mouseenter(function(e) {
+		$(this).children(".missioninfo").html("").load(PATH+"missioninfo?id=2").show();
+
+	}).mouseleave(function() {
+		$(this).children(".missioninfo").hide();
+
+	}).mousemove(function(e) {
+		var offset = $(this).offset();
+		$(this).children(".missioninfo").css({   top: (e.pageY-offset.top+15)+"px", left: (e.pageX-offset.left+15/*-175*/)+"px" });
+	});
+
+});
+
+</script>
+
+******************************************************
+missions tasks- http://hacktheplanet.no/mission_tasks?id=6
+******************************************************
+
+******************************************************
+FREELANCE - Angry Birds
+
+http://hacktheplanet.no/mission_attack
+******************************************************
+
+
+{"status":"active","rounds":"0","debug":"{\"0\":\"mission sanity checks ok\",\"1\":\"ATTACKLOOP\",\"2\":\"HP+1 player 0 112\",\"3\":\"LOOKING FOR RANDOM enemy\",\"attack\":[33,0,0,0,2,3,1,0,37,0],\"4\":\"HP+1 npc 1 20\",\"5\":\"LOOKING FOR RANDOM enemy\",\"6\":\"HP+1 enemy 2 77\",\"7\":\"LOOKING FOR RANDOM player\",\"8\":\"HP+1 npc 3 1\",\"9\":\"LOOKING FOR RANDOM enemy\",\"10\":\"HP+1 npc 4 10\",\"11\":\"LOOKING FOR RANDOM enemy\",\"12\":\"HP+1 enemy 5 40\",\"13\":\"LOOKING FOR RANDOM player\",\"14\":\"HP+1 enemy 6 5\",\"15\":\"LOOKING FOR RANDOM player\",\"16\":\"HP+1 enemy 7 40\",\"17\":\"LOOKING FOR RANDOM player\",\"18\":\"LOOKING FOR RANDOM enemy\"}","dead":"{\"player\":[],\"enemy\":[\"104\"],\"npc\":[\"98\"]}","founditem":false,"task":[{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","playercolor":"111111","playerid":"1764","playerxp":6,"target":"enemy","targetname":"Pig King","targetimage":"ab_pig2011030222.jpg","targetcolor":"019e4d","targetid":"102","targethp":77,"targethppercent":70,"targetdestroyed":0,"damage":33,"damagetype":"normal","attacktype":"normal"},{"player":"npc","playername":"Yellow Bird","playerimage":"ab_yellow2011030222.jpg","playercolor":"f2bc26","playerid":"99","playerxp":false,"target":"enemy","targetname":"Pig King","targetimage":"ab_pig2011030222.jpg","targetcolor":"019e4d","targetid":"102","targethp":77,"targethppercent":70,"targetdestroyed":0,"damage":0,"damagetype":"miss","attacktype":"normal"},{"player":"enemy","playername":"Pig King","playerimage":"ab_pig2011030222.jpg","playercolor":"019e4d","playerid":"102","playerxp":false,"target":"player","targetname":"xrmx","targetimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","targetcolor":"111111","targetid":"1764","targethp":112,"targethppercent":100,"targetdestroyed":0,"damage":0,"damagetype":"miss","attacktype":"normal"},{"player":"npc","playername":"Red Bird","playerimage":"ab_red2011030222.jpg","playercolor":"e31e33","playerid":"98","playerxp":false,"target":"enemy","targetname":"Pig King","targetimage":"ab_pig2011030222.jpg","targetcolor":"019e4d","targetid":"102","targethp":77,"targethppercent":70,"targetdestroyed":0,"damage":0,"damagetype":"miss","attacktype":"normal"},{"player":"enemy","playername":"Pig King","playerimage":"ab_pig2011030222.jpg","playercolor":"019e4d","playerid":"102","playerxp":false,"target":"npc","targetname":"Red Bird","targetimage":"ab_red2011030222.jpg","targetcolor":"e31e33","targetid":"98","targethp":0,"targethppercent":0,"targetdestroyed":1,"damage":2,"damagetype":"normal","attacktype":"counter"},{"player":"npc","playername":"Black Bird","playerimage":"ab_bomb2011030222.jpg","playercolor":"1f1a17","playerid":"100","playerxp":false,"target":"enemy","targetname":"Pig King","targetimage":"ab_pig2011030222.jpg","targetcolor":"019e4d","targetid":"102","targethp":74,"targethppercent":67,"targetdestroyed":0,"damage":3,"damagetype":"normal","attacktype":"normal"},{"player":"enemy","playername":"Pig","playerimage":"ab_pig22011030222.jpg","playercolor":"009d4c","playerid":"101","playerxp":false,"target":"player","targetname":"xrmx","targetimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","targetcolor":"111111","targetid":"1764","targethp":111,"targethppercent":99,"targetdestroyed":0,"damage":1,"damagetype":"critical","attacktype":"normal"},{"player":"enemy","playername":"Wood","playerimage":"ab_wood2011030223.jpg","playercolor":"b86921","playerid":"104","playerxp":false,"target":"player","targetname":"xrmx","targetimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","targetcolor":"111111","targetid":"1764","targethp":111,"targethppercent":99,"targetdestroyed":0,"damage":0,"damagetype":"miss","attacktype":"normal"},{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","playercolor":"111111","playerid":"1764","playerxp":6,"target":"enemy","targetname":"Wood","targetimage":"ab_wood2011030223.jpg","targetcolor":"b86921","targetid":"104","targethp":0,"targethppercent":0,"targetdestroyed":1,"damage":37,"damagetype":"normal","attacktype":"counter"},{"player":"enemy","playername":"Pig","playerimage":"ab_pig22011030222.jpg","playercolor":"009d4c","playerid":"105","playerxp":false,"target":"player","targetname":"xrmx","targetimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","targetcolor":"111111","targetid":"1764","targethp":111,"targethppercent":99,"targetdestroyed":0,"damage":0,"damagetype":"miss","attacktype":"normal"}]}
+
+
+
+{"status":"completed","rounds":"1","debug":"{\"0\":\"mission sanity checks ok\",\"1\":\"ATTACKLOOP\",\"2\":\"HP+1 player 0 111\",\"3\":\"LOOKING FOR RANDOM enemy\",\"attack\":[56,1,0,3,0,75,6,1,42,1,43],\"4\":\"HP+1 npc 1 20\",\"5\":\"LOOKING FOR RANDOM enemy\",\"6\":\"HP+1 enemy 2 18\",\"7\":\"LOOKING FOR RANDOM player\",\"8\":\"HP<1 npc 3 0\",\"9\":\"LOOKING FOR RANDOM npc\",\"10\":\"HP+1 npc 4 10\",\"11\":\"LOOKING FOR RANDOM enemy\",\"12\":\"HP+1 enemy 5 34\",\"13\":\"LOOKING FOR RANDOM player\",\"14\":\"HP<1 enemy 6 0\",\"15\":\"LOOKING FOR RANDOM enemy\",\"16\":\"HP+1 enemy 7 40\",\"17\":\"LOOKING FOR RANDOM player\",\"18\":\"LOOKING FOR RANDOM enemy\"}","dead":"{\"player\":[],\"enemy\":[\"102\",\"101\",\"105\"],\"npc\":[]}","founditem":true,"task":[{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","playercolor":"111111","playerid":"1764","playerxp":7,"target":"enemy","targetname":"Pig King","targetimage":"ab_pig2011030222.jpg","targetcolor":"019e4d","targetid":"102","targethp":18,"targethppercent":16,"targetdestroyed":0,"damage":56,"damagetype":"critical","attacktype":"normal"},{"player":"enemy","playername":"Pig King","playerimage":"ab_pig2011030222.jpg","playercolor":"019e4d","playerid":"102","playerxp":false,"target":"player","targetname":"xrmx","targetimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","targetcolor":"111111","targetid":"1764","targethp":110,"targethppercent":98,"targetdestroyed":0,"damage":1,"damagetype":"normal","attacktype":"counter"},{"player":"npc","playername":"Yellow Bird","playerimage":"ab_yellow2011030222.jpg","playercolor":"f2bc26","playerid":"99","playerxp":false,"target":"enemy","targetname":"Pig King","targetimage":"ab_pig2011030222.jpg","targetcolor":"019e4d","targetid":"102","targethp":18,"targethppercent":16,"targetdestroyed":0,"damage":0,"damagetype":"miss","attacktype":"normal"},{"player":"enemy","playername":"Pig King","playerimage":"ab_pig2011030222.jpg","playercolor":"019e4d","playerid":"102","playerxp":false,"target":"npc","targetname":"Yellow Bird","targetimage":"ab_yellow2011030222.jpg","targetcolor":"f2bc26","targetid":"99","targethp":17,"targethppercent":85,"targetdestroyed":0,"damage":3,"damagetype":"normal","attacktype":"counter"},{"player":"enemy","playername":"Pig King","playerimage":"ab_pig2011030222.jpg","playercolor":"019e4d","playerid":"102","playerxp":false,"target":"player","targetname":"xrmx","targetimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","targetcolor":"111111","targetid":"1764","targethp":110,"targethppercent":98,"targetdestroyed":0,"damage":0,"damagetype":"miss","attacktype":"normal"},{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","playercolor":"111111","playerid":"1764","playerxp":7,"target":"enemy","targetname":"Pig King","targetimage":"ab_pig2011030222.jpg","targetcolor":"019e4d","targetid":"102","targethp":0,"targethppercent":0,"targetdestroyed":1,"damage":75,"damagetype":"critical","attacktype":"counter"},{"player":"npc","playername":"Black Bird","playerimage":"ab_bomb2011030222.jpg","playercolor":"1f1a17","playerid":"100","playerxp":false,"target":"enemy","targetname":"Pig","targetimage":"ab_pig22011030222.jpg","targetcolor":"009d4c","targetid":"101","targethp":34,"targethppercent":85,"targetdestroyed":0,"damage":6,"damagetype":"normal","attacktype":"normal"},{"player":"enemy","playername":"Pig","playerimage":"ab_pig22011030222.jpg","playercolor":"009d4c","playerid":"101","playerxp":false,"target":"player","targetname":"xrmx","targetimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","targetcolor":"111111","targetid":"1764","targethp":109,"targethppercent":97,"targetdestroyed":0,"damage":1,"damagetype":"normal","attacktype":"normal"},{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","playercolor":"111111","playerid":"1764","playerxp":7,"target":"enemy","targetname":"Pig","targetimage":"ab_pig22011030222.jpg","targetcolor":"009d4c","targetid":"101","targethp":0,"targethppercent":0,"targetdestroyed":1,"damage":42,"damagetype":"normal","attacktype":"counter"},{"player":"enemy","playername":"Pig","playerimage":"ab_pig22011030222.jpg","playercolor":"009d4c","playerid":"105","playerxp":false,"target":"player","targetname":"xrmx","targetimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","targetcolor":"111111","targetid":"1764","targethp":108,"targethppercent":96,"targetdestroyed":0,"damage":1,"damagetype":"normal","attacktype":"normal"},{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","playercolor":"111111","playerid":"1764","playerxp":7,"target":"enemy","targetname":"Pig","targetimage":"ab_pig22011030222.jpg","targetcolor":"009d4c","targetid":"105","targethp":0,"targethppercent":0,"targetdestroyed":1,"damage":43,"damagetype":"normal","attacktype":"counter"}],"outcome":{"score":5832,"itemid":"1443","itemcard":"<div class=\"item75 itemlink\" style='background-color:#bebebe'>\n    <img id='image75' class='itemimage' alt='image75' src='\/images\/items\/graphic\/gfxcard22011030118.png' style='background-color:#e6e6e6' \/>\n    <div class=\"namehelper\"><div class=\"itemname\" style='background-color:#969696;'>Generic ClearBlue GFX-card<\/div><\/div>\n    <span class=\"lvl\">2<\/span>\n\n    <div class=\"stats-bar\">\n        <div class=\"stats-helper\">\n            <div class='stats-item'>\n                <span class=\"stats-value\" style='background-color:#e6e6e6;color:#000000'>0<\/span>\n                <span class=\"stats-type\">Pwr<\/span>\n            <\/div>\n            <div class='stats-item'>\n                <span class=\"stats-value\" style='background-color:#e6e6e6;color:#000000'>0<\/span>\n                <span class=\"stats-type\">SCR<\/span>\n            <\/div>\n            <div class='stats-item'>\n                <span class=\"stats-value\" style='background-color:#e6e6e6;color:#000000'>0<\/span>\n                <span class=\"stats-type\">Spd<\/span>\n            <\/div>\n            <div class='stats-item'>\n                <span class=\"stats-value\" style='background-color:#e6e6e6;color:#000000'>1<\/span>\n                <span class=\"stats-type\">Skl<\/span>\n            <\/div>\n            <div class='stats-item'>\n                <span class=\"stats-value\" style='background-color:#e6e6e6;color:#000000'>2<\/span>\n                <span class=\"stats-type\">hp<\/span>\n            <\/div>\n            <div class=\"clear\"><\/div>\n        <\/div>\n    <\/div>\n<\/div>","damage_delt":286,"damage_recieved":4,"xp":40,"cr":1110},"story":"KRAAAKRARKARARKA"}
+
+
+
+
+-- http://hacktheplanet.no/mission_attack
+{"status":"completed","rounds":"2","debug":"{\"0\":\"mission sanity checks ok\",\"1\":\"ATTACKLOOP\",\"2\":\"HP+1 player 0 110\",\"3\":\"LOOKING FOR RANDOM enemy\",\"attack\":[36],\"4\":\"HP+1 npc 1 18\",\"5\":\"LOOKING FOR RANDOM enemy\",\"6\":\"LOOKING FOR RANDOM enemy\"}","dead":"{\"player\":[],\"enemy\":[\"105\"],\"npc\":[]}","founditem":false,"task":[{"player":"player","playername":"xrmx","playerimage":"1b1e5a6325b15fa9945874d1dbab727d88.jpg","playercolor":"111111","playerid":"1764","playerxp":6,"target":"enemy","targetname":"Pig","targetimage":"ab_pig22011030222.jpg","targetcolor":"009d4c","targetid":"105","targethp":0,"targethppercent":0,"targetdestroyed":1,"damage":36,"damagetype":"normal","attacktype":"normal"}],"outcome":{"score":5592,"itemid":"0","itemcard":"","damage_delt":301,"damage_recieved":"2","xp":39,"cr":1520},"story":"KRAAAKRARKARARKA"}
